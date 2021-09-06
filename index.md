@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Image](https://github.com/yijicheng/yijicheng.github.io/blob/main/fig1.jpg)
+![Image](https://github.com/yijicheng/yijicheng.github.io/blob/main/fig1.jpg?raw=true)
 
 You can use the [editor on GitHub](https://github.com/yijicheng/yijicheng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
